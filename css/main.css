@@ -1,0 +1,196 @@
+/***MILESTONE PORTFOLIO***/
+
+/***BASE STYLES***/
+
+body {
+font-family: 'Roboto', sans-serif;
+}
+
+p {
+font-size: 24px;
+}
+
+header {
+height: 800px;
+}
+
+#work {
+height: 1200px;
+}
+
+#about {
+height: 750px;
+}
+
+#contact {
+height: 400px;
+}
+
+.full-width {
+width: 1200px;
+margin: 0 auto;
+}
+
+.half-width {
+width: 600px;
+float: left;
+}
+
+.third-width {
+width: 400px;
+float: left;
+}
+
+
+/***HEADER***/
+
+header {
+background: url('../img/keyboard-background-white-unsplash.jpg');
+background-size: cover;
+}
+
+h1 {
+color: #0199AF;
+font-family: 'Roboto Slab', serif;
+font-size: 60px;
+}
+
+h2 {
+color: #594622;
+font-family: 'Roboto', sans-serif;
+font-size: 48px;
+}
+
+#headlines {
+padding-top: 250px;
+text-align: center;
+}
+
+/***WORK***/
+
+#work {
+color: #594622;
+}
+
+h3 {
+font-family: 'Roboto Slab', serif;
+font-size: 36px;
+font-weight: bold;
+margin-bottom: 100px;
+text-align: center; 
+}
+
+h4 {
+font-family: 'Roboto', sans-serif;
+font-size: 24px;
+font-weight: bold;
+}
+
+#work img {
+height: 300px;
+width: 550px;
+margin-bottom: 50px;
+border: 1px solid #C3D8C5;
+}
+
+#work p {
+text-align: left;
+}
+
+#work h4 {
+margin-top: 0px;
+}
+
+.description {
+height: 355px;
+}
+
+
+
+/***ABOUT***/
+
+#about {
+background: #0199AF;
+color: #EFEDF0;
+}
+
+#about h3 {
+padding-top: 60px;
+}
+
+#about img {
+width: 350px;
+padding-left: 100px;
+padding-right: 100px;
+}
+
+#subheading {
+margin-top: 0px;
+}
+
+ul {
+font-size: 24px;
+}
+
+#about p {
+text-align: left;
+}
+
+#personal {
+font-size: 18px;
+}
+
+/***CONTACT***/
+
+#contact {
+background: #C3D8C5;
+color: #594622;
+}
+
+#contact h3 {
+padding-top: 50px;
+margin-bottom: 50px;
+margin-top: 0px;
+}
+
+.third-width {
+text-align: center;
+}
+
+#contact ul {
+list-style: none;
+}
+
+#contact ul li {
+display: inline-block;
+}
+
+#contact ul img {
+padding-right: 48px;
+}
+
+#contact a {
+color: #594622;
+font-size: 24px;
+text-align: center;
+text-decoration: none;
+}
+
+/***FOOTER***/
+
+footer p {
+color: #EFEDF0;
+font-size: 18px;
+text-align: center;
+margin-top: 0px;
+margin-bottom: 0px;
+padding-bottom: 10px;
+}
+
+footer {
+background: #C3D8C5;
+clear: both;
+margin: 0 auto;
+}
+
+
